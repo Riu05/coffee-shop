@@ -1,2 +1,1 @@
-# coffee-shop
-simple coffee shop website
+# MY PROJECTS
